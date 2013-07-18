@@ -1,5 +1,4 @@
 
-Django==1.5.1
-django-polymorphic
+Django==1.5
 django-cte-trees
 django-hstore
